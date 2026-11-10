@@ -24,9 +24,9 @@ CS and Science, Technology & Society student at Colby College (class of 2027). I
 
 ## Stack
 
-<img src="https://skillicons.dev/icons?i=py,java,c,cpp,ts,js,swift,react,nodejs,html,css,postgres,aws,linux,git,tensorflow,sklearn,pandas,numpy,scipy&perline=7" alt="Tech stack icons" />
+<img src="https://skillicons.dev/icons?i=py,java,c,cpp,ts,js,swift,react,nodejs,html,css,postgres,aws,linux,git,tensorflow,sklearn&perline=7" alt="Tech stack icons" />
 
-Also working with MATLAB, x86 assembly, SQL, REST APIs, Jupyter, React Native, LLMs and MCP servers.
+Also working with Pandas, NumPy, SciPy, MATLAB, x86 assembly, SQL, REST APIs, Jupyter, React Native, LLMs and MCP servers.
 
 ## Open source
 
@@ -36,7 +36,7 @@ Also working with MATLAB, x86 assembly, SQL, REST APIs, Jupyter, React Native, L
 
 ## Education
 
-**Colby College** - B.A. Computer Science and Science, Technology & Society (May 2027)
+**Colby College** - B.A. Computer Science and Science, Technology & Society (May 2027)  
 **Singapore Management University** - study abroad, Software Engineering (Fall 2025)
 
 ## Connect
